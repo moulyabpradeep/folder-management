@@ -1,0 +1,8 @@
+{
+  "root":[
+	  {"opt": ["a.txt", "b.sh", {"java":["HelloWorld.java"]}]},
+	  {"etc": ["c.txt", "db.log",  {"mongodb":["db.conf"]}]},
+	  "g.txt",
+	  {"var.log":[]}
+	]
+}
