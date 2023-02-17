@@ -1,0 +1,9 @@
+Dear Team,
+
+
+All the files uploaded here are programmed by me. And I have written explanation at class level and method level.
+
+This project is folder management system.
+If given a folder for example : /root/home/user/sample.txt
+If this folder structure exists, then traverses through this structure and creates a file in this folder.
+If this file already exists then, it returns the file to the user with complete relative file path.
