@@ -6,6 +6,8 @@ import com.awpl.folder.manager.FolderManager;
 
 /**
  * Generate Directory Structure based on input
+ *
+ * When a json file path is entered, this project will return with full relative path of file.
  * 
  * @author Moulya_P
  *
